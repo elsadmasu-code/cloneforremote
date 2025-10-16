@@ -1,1 +1,1 @@
-# cloneforremote
+# clonefromremote
